@@ -4,6 +4,8 @@ A modern, responsive clone of the iPhone product page built with React, TypeScri
 
 ![iPhone Website Clone](https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&q=80&w=1200)
 
+live website --- https://i-phone-website-five.vercel.app/
+
 ## Features
 
 - 🎨 Modern, responsive design
